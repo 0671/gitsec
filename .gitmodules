@@ -1,0 +1,3 @@
+[submodule "test/gitsec2"]
+    path = test/gitsec2
+    url = https://github.com/0671/gitsec2.git
